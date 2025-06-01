@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Lucas Gomez
 
-<!--
-**LucasGomez35/LucasGomez35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Estoy dando mis primeros pasos en el mundo del **análisis de datos**, con una especialización en **Data Analytics**.
 
-Here are some ideas to get you started:
+🎓 Me formé en el bootcamp intensivo de **SoyHenry**, donde desarrollé habilidades prácticas y resolví proyectos reales de análisis y visualización de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y herramientas
+
+- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib)
+- 🧠 **SQL** para consultas y análisis relacional
+- 📊 **Power BI** y **Google Sheets** para visualización de datos
+- 🔁 Automatización y limpieza de datos
+
+---
+
+### 🚀 Buscando oportunidades
+
+Me encuentro abierto a nuevas oportunidades para aplicar mi **enfoque creativo**, **perseverancia** y **espíritu colaborativo** en equipos dinámicos.
+
+---
+
+- 📧 lucasgomez.05.03@gmail.com  
+- 🔗 [LinkedIn](www.linkedin.com/in/lucas-gomez-79a720211)
+
+
+---
