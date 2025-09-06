@@ -1,28 +1,41 @@
-# ¡Hola! 👋 Soy Lucas Gomez
+# 👋 Hola, soy Lucas Gomez  
 
-👨‍💻 Estoy dando mis primeros pasos en el mundo del **análisis de datos**, con una especialización en **Data Analytics**.
-
-🎓 Me formé en el bootcamp intensivo de **SoyHenry**, donde desarrollé habilidades prácticas y resolví proyectos reales de análisis y visualización de datos.
-
----
-
-### 🛠️ Tecnologías y herramientas
-
-- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib)
-- 🧠 **SQL** para consultas y análisis relacional
-- 📊 **Power BI** y **Google Sheets** para visualización de datos
-- 🔁 Automatización y limpieza de datos
+Soy **Analista de Datos** con experiencia en Python, SQL, Power BI y procesos ETL.  
+Me apasiona transformar datos en insights accionables para la toma de decisiones estratégicas.  
 
 ---
 
-### 🚀 Buscando oportunidades
+## 🛠️ Habilidades principales
+- **Lenguajes:** Python, SQL  
+- **Visualización:** Power BI, Matplotlib, Seaborn  
+- **Bases de Datos:** MySQL, SQLite  
+- **Procesos ETL:** Limpieza, transformación y modelado de datos  
+- **Análisis:** Estadística descriptiva, correlaciones, storytelling con datos  
 
-Me encuentro abierto a nuevas oportunidades para aplicar mi **enfoque creativo**, **perseverancia** y **espíritu colaborativo** en equipos dinámicos.
+---
+
+## 📂 Proyectos Destacados
+
+### ✈️ [Airport Data Analysis – Tukan Airlines Expansion](https://github.com/LucasGomez35/airport-data-analysis)  
+Análisis para una aerolínea caribeña con foco en su expansión hacia Asia.  
+Incluye procesos ETL, almacenamiento en MySQL, EDA en Python y un dashboard en Power BI con KPIs estratégicos.  
+
+📊 **Tecnologías:** Python, SQL, MySQL, Power BI  
 
 ---
 
-- 📧 lucasgomez.05.03@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/lucas-gomez-79a720211)
-
+## 📈 Actualmente trabajando en...
+- Construcción de un **portafolio de proyectos de análisis de datos**  
+- Dashboards interactivos en **Power BI**  
+- Limpieza y exploración de datasets con **Python (pandas, numpy, matplotlib)**  
 
 ---
+
+## 📫 Contacto
+- 📩 [lucasgomez.05.03@gmail.com](mailto:lucasgomez.05.03@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-gomez-79a720211)  
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!  
+Si te interesa colaborar o ver más de mi trabajo, no dudes en contactarme.
